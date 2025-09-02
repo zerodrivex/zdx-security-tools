@@ -23,3 +23,7 @@ While `.so` files are typically Unix-based shared objects, `fsod_beacon.so` is b
 ---
 
 ## 📁 File List
+
+windows/
+├── fsod_beacon.so   # Signal beacon runtime module
+├── README.md        # This file
